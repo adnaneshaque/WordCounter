@@ -1,0 +1,10 @@
+C:\Assignment\WordParsing\WordParsing\bin\Debug\netcoreapp2.2\WordParsing.deps.json
+C:\Assignment\WordParsing\WordParsing\bin\Debug\netcoreapp2.2\WordParsing.runtimeconfig.json
+C:\Assignment\WordParsing\WordParsing\bin\Debug\netcoreapp2.2\WordParsing.runtimeconfig.dev.json
+C:\Assignment\WordParsing\WordParsing\bin\Debug\netcoreapp2.2\WordParsing.dll
+C:\Assignment\WordParsing\WordParsing\obj\Debug\netcoreapp2.2\WordParsing.csprojAssemblyReference.cache
+C:\Assignment\WordParsing\WordParsing\obj\Debug\netcoreapp2.2\WordParsing.AssemblyInfoInputs.cache
+C:\Assignment\WordParsing\WordParsing\obj\Debug\netcoreapp2.2\WordParsing.AssemblyInfo.cs
+C:\Assignment\WordParsing\WordParsing\bin\Debug\netcoreapp2.2\WordParsing.pdb
+C:\Assignment\WordParsing\WordParsing\obj\Debug\netcoreapp2.2\WordParsing.dll
+C:\Assignment\WordParsing\WordParsing\obj\Debug\netcoreapp2.2\WordParsing.pdb
